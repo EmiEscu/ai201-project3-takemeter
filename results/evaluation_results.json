@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.8,
+  "finetuned_accuracy": 0.5333,
+  "improvement": -0.2667,
+  "test_set_size": 30,
+  "label_map": {
+    "Venting & Commentary": 0,
+    "Skills & Study": 1,
+    "Applications, Interviews & Offers": 2,
+    "Internship & Workplace Situations": 3
+  },
+  "model": "distilbert-base-uncased"
+}
