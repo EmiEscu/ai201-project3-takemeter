@@ -1,5 +1,7 @@
 # TakeMeter: r/csMajors Intent Classification Project
 
+## DEMO VIDEO: https://youtu.be/eS2BjTkq07E
+
 
 ### Community Selection
 I chose `r/csMajors` as the target community for this classification task. I selected this subreddit because it is highly text-centric, and the stakes for the users are extremely high (careers, degrees, and salaries). Consequently, the discourse naturally segments into very distinct, functional buckets. Furthermore, as a CS major myself, I am deeply familiar with the domain-specific jargon (e.g., "TC", "McFAANG", "OA", "LC"), which allowed me to design highly accurate label boundaries and spot when users were using "stealth flexes" disguised as questions.
